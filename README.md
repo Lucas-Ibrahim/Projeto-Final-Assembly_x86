@@ -28,8 +28,8 @@ Afundar todas as embarcações do computador antes que o tabuleiro seja totalmen
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/batalha-naval.git
-   cd batalha-naval
-
-   📊 Status do Projeto
+   cd batalha-naval 
+`
+ ## 📊 Status do Projeto
 
 ✔️ Concluído (versão acadêmica para disciplina de programação)
